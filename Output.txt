@@ -1,0 +1,16 @@
+=== Airport Sunset Scene ===
+Graphics Algorithms Used:
+1. DDA Line Algorithm - Runway center markings
+2. Bresenham Line Algorithm - Runway edge markings
+3. Midpoint Circle Algorithm - Sun, windows, lights
+
+Transformations:
+- Translation: Sun descending, airplane moving
+- Scaling: Sun size changing, brightness fading
+
+Animation loops continuously every 6 seconds!
+
+=== CONTROLS ===
+Press 'F' key to make the airplane fly higher!
+Press 'D' key to make the airplane fly lower!
+Press 'ESC' to exit.
